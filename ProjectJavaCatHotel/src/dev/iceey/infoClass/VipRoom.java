@@ -44,7 +44,7 @@ public class VipRoom extends StandardRoom {
     }
     
 	public String toString() {
-		return "ชนิดของห้อง = "+" VipRoom"+" | "+"หมายเลขห้องพัก = "+this.roomNumber+" | "
-		+"อยู่กี่วัน = "+this.howManyDaysToStay+" | "+"ราคารวมที่ต้องชำระ = "+calRoomPrice();
+		return "เธเธเธดเธ”เธเธญเธเธซเนเธญเธ = "+" VipRoom"+" | "+"เธซเธกเธฒเธขเน€เธฅเธเธซเนเธญเธเธเธฑเธ = "+this.roomNumber+" | "
+		+"เธญเธขเธนเนเธเธตเนเธงเธฑเธ = "+this.howManyDaysToStay+" | "+"เธฃเธฒเธเธฒเธฃเธงเธกเธ—เธตเนเธ•เนเธญเธเธเธณเธฃเธฐ = "+calRoomPrice();
 	}
 }
